@@ -98,7 +98,7 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="..\delphi-calculator\CalculatorForm.pas">
+        <DCCReference Include="CalculatorForm.pas">
             <Form>Form2</Form>
             <FormType>dfm</FormType>
         </DCCReference>

@@ -2,7 +2,7 @@ program Calculator;
 
 uses
   Vcl.Forms,
-  CalculatorForm in '..\delphi-calculator\CalculatorForm.pas' {Form2};
+  CalculatorForm in 'CalculatorForm.pas' {Form2};
 
 {$R *.res}
 
